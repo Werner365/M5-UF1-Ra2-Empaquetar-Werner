@@ -18,6 +18,8 @@ quines instruccions has fet anar per crear-lo.**
 
 **1. Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.**
 
+![](src/images/4.png)
+
 **2. Crea el teu propi package i actualitza el fitxer ProvaUtils.java de forma que estigui
 dins d'aquest.**
 
@@ -26,7 +28,10 @@ dins d'aquest.**
 **2. Posa el JAR en el teu CLASSPATH**
 **3. Inclou el JAR dins el teu MANIFEST.MF**
 
+![](src/images/5.png)
+![](src/images/6.png)
+
+
 **4. Quina de les tres opcions anteriors trobes millor?**
 
-**5. Detalla tot comentant el codi que fa en general el programa i en concret cada línia, el
-programa ProvaUtils.java 1 .**
+
