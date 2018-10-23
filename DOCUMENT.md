@@ -5,10 +5,10 @@ quines instruccions has fet anar per crear-lo.**
 
 **2. Executa el JAR, i mostra el seu resultat.**
 
-![](images/1.png)
+![](src/images/1.png)
 
 
-![](images/2.png)
+![](src/images/2.png)
 
 
-![](images/3.png)
+![](src/images/3.png)
