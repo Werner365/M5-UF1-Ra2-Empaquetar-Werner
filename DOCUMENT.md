@@ -1,4 +1,5 @@
 # PRACTICA WERNER EMPAQUETAR #
+## 1 CREAR APLICACIONS AMB JAR ##
 
 **1. Crea un JAR amb una aplicació que ens mostri “Hola món!”, explica clarament com i
 quines instruccions has fet anar per crear-lo.**
@@ -12,3 +13,5 @@ quines instruccions has fet anar per crear-lo.**
 
 
 ![](src/images/3.png)
+
+## 2 INCLOURE JAR'S A LA MEVA APLICACIÓ ##
