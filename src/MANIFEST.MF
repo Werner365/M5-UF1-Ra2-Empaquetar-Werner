@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
 Created-By:  Werner Nüesch Boncompte
 Main-Class: pepelu.hola
+Class-Path: DAWUtils.jar
 
