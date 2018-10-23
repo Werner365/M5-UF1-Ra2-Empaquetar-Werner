@@ -21,10 +21,10 @@ quines instruccions has fet anar per crear-lo.**
 **2. Crea el teu propi package i actualitza el fitxer ProvaUtils.java de forma que estigui
 dins d'aquest.**
 
-**3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:
-1. Fes ús de l'opció -classpath
-2. Posa el JAR en el teu CLASSPATH
-3. Inclou el JAR dins el teu MANIFEST.MF**
+**3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:**
+**1. Fes ús de l'opció -classpath**
+**2. Posa el JAR en el teu CLASSPATH**
+**3. Inclou el JAR dins el teu MANIFEST.MF**
 
 **4. Quina de les tres opcions anteriors trobes millor?**
 
